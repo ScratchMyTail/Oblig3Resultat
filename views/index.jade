@@ -1,0 +1,27 @@
+extends layout
+
+block content
+
+	script.
+		function search(sok){
+			var xmlHttp = new XMLHttpRequest();
+			
+			xmlHttp.onreadystatechange = function(){
+				if(xmlHttp.readyState == 4 && xmlHttp.status == 200){
+					var data = JSON.parse(xmlHttp.responseText);
+					ul = document.getElementById("resultat");
+					ul.innerHTML = "";
+					data.forEach(function(navn){
+						li = document.createElement("li");
+						li.innerHTML = navn;
+						ul.appendChild(li);
+					})
+				}
+			};
+
+			xmlHttp.open("GET", "/read?sok="+sok, true);
+			xmlHttp.send();
+		}
+
+	input(type="text" onKeyUp="search(this.value)")
+	ul(id="resultat")

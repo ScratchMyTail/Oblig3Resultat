@@ -1,0 +1,107 @@
+1	Lars Mellberg	NL	Harley Davidson	1939	 	ULH	 	1340
+2	Hans Simon Johansen	N	Ariel	1938	 	VH	 	500
+3	Peder Olsen	S	Harley Davidson m/s	1934	 	VD	 	1200
+4	Henning Petersen	DK	Nimbus	1939	 	C	 	750
+5	Claus Seneberg Nielsen	DK	DKW	1937	 	SB 500A	 	500
+6	Arne Efterstøl	N	Ariel	1937	 	VG	 	500
+7	Jørgen Bang Jensen	DK	Harley Davidson	1934	 	VL	 	1200
+8	Rune Frøvik Hansen	N	Harley Davidson	1927	 	J	 	1000
+9	Ole K. Sommer	DK	Nimbus	1938	 	C Luxus	 	750
+10	Hans Gunneson	S	Harley Davidson	1935	 	VD	 	1200
+11	Johan Ullenby	S	Harley Davidson	1940	 	UH	 	1340
+12	Olle Blomquist	S	Ariel	1944	 	W/NG	 	350
+13	Karina Granø	FI	Indian	1927	 	Scout	 	600
+14	Juha Finholm	FI	Indian	1936	 	Chief	 	1200
+15	Alan Jones	GB	Levis 	1932	 	Sport A	 	350
+16	John Spalding	GB	Levis 	1933	 	Sport A	 	350
+17	Rob Caldwell	GB	BSA	1942	 	M20	 	500
+18	Dag Øby	N	Ariel	1934	 	VA3	 	557
+19	Ole Jensen	DK	Royal Enfield	1930	 	H31	 	570
+20	Max Lunau	DK	Nimbus	1939	 	C	 	750
+21	Egon Nielsen	DK	Nimbus	1936	 	C	 	750
+22	Verner Christiansen	DK	Velocette	1937	 	MAC	 	350
+23	Peder Jensen	DK	BSA	1941	 	M20	 	500
+24	Magne Aga	N	Ariel	1944	 	W/NG	 	350
+25	Knud Erik Pedersen	DK	Nimbus	1934	 	C	 	750
+26	Lisbeth Petersen	DK	Nimbus	1927	 	B	 	750
+27	Erik Kristoffersen	DK	BSA	1931	 	Slooper	 	500
+27,1	Marianne Juhl	DK	passasjer/passenger	"	 	"	 	 
+28	Bent Christensen	DK	BSA	1939	 	Silver Star	 	500
+29	Lars Andersen	DK	Nimbus	1937	 	C	 	750
+30	Skold Pagh	DK	Nimbus	1937	 	C	 	750
+31	Jon Arne Hjelle	N	Excelsior	1915	 	 	 	1000
+32	Gunnar Vadset	N	Indian 	1921	 	Power Plus	 	1000
+33	Stein Hagen	DK	Panther	1931	 	M50	 	500
+34	Per Bay Rasmussen	DK	Nimbus	1938	 	C Sport	 	750
+35	Erling Holm	DK	Harley Davidson	1923	 	J	 	1000
+36	Niels Jacobsen	DK	Nimbus m/s	1937	 	C	 	750
+37	Helge Røysheim	N	Ariel	1942	 	W/NG	 	350
+38	Gunnar Hop	N	Harley Davidson	1916	 	11-F	 	1000
+39	Sverre Dreng Hop	N	Norton	1943	 	16H	 	500
+40	Otto Vogel	D	Indian 	1928	 	Scout	 	600
+41	Poul Rasmussen	DK	BMW	1938	 	R12	 	750
+42	Bernt Linder-Madsen	DK	Harley Davidson m/s	1934	 	VL	 	1200
+42,1	Steen Carmel	DK	passasjer/passenger	"	 	"	 	 
+43	Bjarne Mortensen	DK	Harley Davidson m/s	1932	 	VL	 	1200
+43,1	Allan Jaque	DK	passasjer/passenger	"	 	"	 	 
+44	Søren Aaen	DK	BMW	1930	 	R11	 	750
+45	Flemming Søndergaard	DK	Harley Davidson	1930	 	D	 	750
+46	Magne Bjerva	N	Norton	1935	 	ES2	 	500
+47	Marianne Barry-Berg	N	Zundapp	1937	 	KS 500	 	500
+48	Berndt Berntson	S	Henderson	1924	 	De-Luxe	 	1300
+49	Heiner Rohrwick	D	Nimbus	1938	 	Sport A	 	750
+50	Timo Rohrwick	D	Harley Davidson	1928	 	JD	 	1200
+51	Kurt Dale 	N	Henderson	1921	 	K	 	1300
+52	Bo Nielsen	DK	BMW med sidevogn	1936	 	R12	 	750
+53	Søren Ole Sejersen	DK	BMW med sidevogn	1938	 	 	 	600
+54	Gernot Gruber	A	Zündapp	1941	 	KS600	 	600
+55	Arnd Haberl	A	Zündapp	1928	 	Z300	 	300
+56	Gitti Haberl	A	Zündapp	1939	 	KS600	 	600
+57	Geir Arne Sørlie	N	AJS	1929	 	M3	 	350
+58	John Bergersen	N	AJS	1938	 	M16	 	350
+59	Jon Hodges	GB	Scott	1930	 	Tourer	 	600
+59,1	Gill Swan	GB	passasjer/passenger	"	 	"	 	 
+60	Thorben K Pedersen	DK	BMW med sidevogn	1937	 	R6	 	600
+61	Kjell Bardal	N	Ariel	1939	 	NG	 	350
+62	Kjell Søreide	N	Indian	1934	 	Sport Scout	750
+63	Anders Rudnå	N	BMW	1941	 	R71	 	750
+64	Lutz Helm	D	Triumph	1930	 	 	 	500
+65	Peter Melchert	D	NSU	1939	 	OSL601	 	600
+66	Carsten Grønquist Knudsen	DK	Indian	1932	 	Scout203	 	750
+67	Poul Søndergaard	S	Nimbus	1935	 	C Sport	 	750
+68	Stein Fossheim	N	Indian	1939	 	Chief	 	1200
+69	Ole Bjørn Trollebø	N	Harley Davidson	1920	 	11-F	 	1000
+70	Torkel Kristoffersen	N	Indian	1937	 	Chief	 	1200
+71	Per Erik Olsen	N	Harley Davidson m/s	1928	 	JD	 	1200
+71,1	May Britt Olsen	N	passasjer/passenger	"	 	"	 	 
+72	Willem Veltrop	NL	BMW	1939	 	R500	 	500
+73	Klaas Krist	NL	Harley Davidson	1943	 	WL	 	750
+74	Gert Goor	NL	Peugeot	1930	 	P108	 	350
+75	Dieter Kuhtz	D	Indian	1937	 	Chief	 	1200
+76	Peter Peschken	D	Wanderer	1925	 	1,5PS	 	200
+77	Frederik Peschken	D	Puch	1927	 	220	 	220
+78	Ninette Ellingsen	DK	Nimbus	1945	 	C	 	750
+79	Torgeir Sæther	N	Indian	1945	 	Chief	 	1200
+80	Torbjörn Nilsson	S	Husqvarna 	1920	 	150	 	550
+81	Jan Erik Åslund	N	DKW med sidevogn	1937	 	SB 500	 	500
+82	Jörgen Sundberg	S	Indian 	1945	 	Chief	 	1200
+83	Karl Eriksson	S	Indian	1941	 	Sport Scout	750
+84	Veimar Samuelsson	S	Indian	1937	 	Chief	 	1200
+85	Gerrit Miedema	NL	Harley Davidson	1926	 	J	 	1000
+86	Greetje Miedema	NL	Harley Davidson	1945	 	ZK	 	750
+87	Henning Trulsrud	N	Indian	1936	 	Chief	 	1200
+88	Tor Ahlsand	N	Harley Davidson	1922	 	 	 	1200
+89	Sjouke Hylkema	NL	Harley Davidson	1942	 	WLA	 	750
+90	Jørg Müller	N	BMW	1941	 	R12	 	750
+91	Per Jæger	N	Harley Davidson	1937	 	61E	 	1000
+92	Kim Tørnstrøm	DK	Nimbus	1938	 	C Sport	 	750
+93	Palle Høst Andersen	DK	Triumph	1939	 	Tiger 100	 	500
+94	Tjitte De Haan	NL	Hareley Davidson	1945	 	WLC	 	750
+95	Steinar Røstad	N	BMW	1936	 	R5	 	500
+96	Roy Jönsson	S	Indian	1944	 	Chief	 	1200
+96,1	Annika Jönsson	S	passasjer/passenger	 	 	 	 	 
+97	Cees Kieft	NL	Harley Davidson	1931	 	V	 	1200
+98	Frode Jenssen	N	Triumph	1937	 	3H	 	350
+99	Jonas Jenssen	N	Triumph	1938	 	T80	 	350
+100	Andreas Hauck	D	Zündapp	1939	 	KS 600	 	600
+101	Per Leis	S	Harley Davidson	1937	 	E	 	1000
